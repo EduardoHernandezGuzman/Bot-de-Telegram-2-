@@ -1,4 +1,4 @@
-# Bot-de-Telegram-1
+# Bot-de-Telegram-2
 
 Este proyecto consiste en un bot básico para Telegram desarrollado en Python utilizando la librería TeleBot.
 
@@ -43,9 +43,9 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 
 - **Comando `/about`**: Muestra información sobre el bot, incluyendo detalles sobre su propósito y quién lo creó.
 
-- **Comando `/chiste`**: Cuenta un chiste corto de forma aleatoria.
+- **Comando `/chiste`**: Cuenta un chiste corto de forma aleatoria para alegrar el día del usuario.
 
-- **Comando `/adivinanza`**: Cuenta una adivinanza corta de forma aleatoria.
+- **Comando `/adivinanza`**: Presenta una adivinanza corta de forma aleatoria para desafiar la mente del usuario.
 
 
 ## Personalización
