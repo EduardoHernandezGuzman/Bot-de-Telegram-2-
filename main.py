@@ -2,7 +2,7 @@ import telebot
 import random
 
 # Conexión con nuestro BOT
-TU_TOKEN_AQUÍ = "6555420059:AAFQg0eWhHq0CbJ8NYSj1WQE9_CQpkzneao"
+TU_TOKEN_AQUÍ = ""
 bot = telebot.TeleBot(TU_TOKEN_AQUÍ)
 
 # Lista de chistes cortos
@@ -12,7 +12,7 @@ chistes = [
     "¿Qué le dice una iguana a su hermana gemela? Somos iguanitas.",
     "¿Qué hace una impresora en la playa? ¡Saca copias de seguridad!",
     "¿Qué hace una abeja en el cine? ¡Zum-bido!",
-    "¿Qué le dice un jardinero a otro jardinero? ¡Estamos en las mismas ramas!"
+    "¿Qué le dice un jardinero a otro jardinero? ¡Estamos en las mismas ramas!",
     "¿Por qué los pájaros no usan Facebook? ¡Porque ya tienen Twitter!",
     "¿Cómo se llama el campeón de buceo japonés? ¡Tokofondo!",
     "¿Cuál es el colmo de un electricista? ¡Que su esposa le sea infiel con el hijo de un cortocircuito!",
