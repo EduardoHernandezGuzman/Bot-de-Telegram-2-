@@ -51,6 +51,8 @@ def send_start(message):
     /start - Inicia una conversación conmigo
     /help - Obtiene ayuda sobre cómo usar el bot
     /about - Muestra información sobre este bot
+    /chiste - Alegra tu día leyendo un chiste
+    /adivinanza - Pon a prueba tu mente con una adivinanza
     
     ¡Espero que disfrutes usando este bot!
     """
