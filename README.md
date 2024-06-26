@@ -53,6 +53,11 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 
 - **Comando `/adivinanza`**: Presenta una adivinanza corta de forma aleatoria para desafiar la mente del usuario.
 
+## El bot en funcionamiento
+
+![bot02](https://github.com/EduardoHernandezGuzman/Bot-de-Telegram-2-/assets/139759297/0cd7380d-10fa-419f-a29c-02cf0bf47add)
+
+
 
 ## Personalización
 
